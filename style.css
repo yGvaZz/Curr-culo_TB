@@ -1,0 +1,47 @@
+.foto{
+    border-radius: 10%;
+    max-width: 200px;
+    border: 1px solid black;
+    height: 200px;
+}
+body{
+    background: linear-gradient(68deg, #2F2325 16.62%, #8E5D52 85.61%);}
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.cabecalho-menu{
+    display: flex;
+    gap: 32px;
+}
+
+
+
+p,li,h1{
+    color:aliceblue;
+}
+
+h2{
+    color: rgb(104, 101, 101);
+}
+
+.conteudo{
+    border-top: 0.4px solid black;
+    margin-bottom: 48px;
+}
+
+.c{
+    border-top: 0.4px solid black;
+    margin-bottom: 48px;
+}
+
+.item{
+    color: aliceblue;
+}
+
+

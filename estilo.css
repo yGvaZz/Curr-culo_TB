@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(104, 101, 101);;
+}
+
+.a{
+    display: flex;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.conteudo{
+    background-color:aliceblue ;
+    border-top: 0.4px solid black;
+}
+
+.l1{
+    display: flex;
+    flex-direction: row;
+}
+
+.principal{
+    border-top: 0.4px solid black;
+    margin-bottom: 48px;
+}
+
+.sec{
+    display: flex;
+    gap: 32px;
+    
+}
+.vaz{
+    height: 100px;
+    width: 600px;
+}
+.m{
+    width: 210px;
+}
+.inde{
+    color: aliceblue;
+}
+
+
+
